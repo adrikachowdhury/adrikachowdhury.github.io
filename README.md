@@ -1,5 +1,5 @@
 <head>
-  <link rel="icon" href="logo.png" type="image/png">
+  <link rel="icon" href="logo.png" type="image/png" sizes="32x32">
 </head>
 
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> About Me </strong> </div>
