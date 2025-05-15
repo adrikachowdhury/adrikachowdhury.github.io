@@ -1,3 +1,7 @@
+<head>
+  <link rel="icon" href="logo.png" type="image/png">
+</head>
+
 <div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> About Me </strong> </div>
   <i style= "font-family: Arial;">
     I graduated with a Bachelor's in Computer Science at the <a href="https://asian-university.org/">Asian University for Women</a>  in 2025, and I’m fascinated to delve deeper into <b>Natural Language Processing (NLP)</b> and <b>UX/UI Design</b>. I love diving into projects that blend tech with human-centered solutions, and I’m always eager to learn more about NLP and UX/UI to create experiences that truly connect with people.
