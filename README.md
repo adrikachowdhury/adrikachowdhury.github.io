@@ -2,13 +2,13 @@
   <link rel="icon" href="logo.png" type="image/png" sizes="32x32">
 </head>
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> About Me </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> About Me </strong> </div>
   <i style= "font-family: Arial;">
     I graduated with a Bachelor's in Computer Science at the <a href="https://asian-university.org/">Asian University for Women</a>  in 2025, and I’m fascinated to delve deeper into <b>Natural Language Processing (NLP)</b> and <b>UX/UI Design</b>. I love diving into projects that blend tech with human-centered solutions, and I’m always eager to learn more about NLP and UX/UI to create experiences that truly connect with people.
 <br>As a dedicated and team-oriented professional, I bring strong time management and organizational skills to every endeavor. My projects have taught me to tackle tricky problems with curiosity and creativity.
 <br>When I’m not geeking out over tech, you’ll find me digital painting, jamming to music, or getting lost in a good series binge. I’d love to connect and chat about innovative projects, especially in NLP and UX/UI, so feel free to reach out!</i>
 <br>
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Skills </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Skills </strong> </div>
 
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -75,7 +75,7 @@
 </style>
 <br>
 
-<div style="font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;">
+<div style="font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;">
   <strong style="color: #a55858;">Soft Skills</strong>
 </div>
 - Language Fluency (Native Bangla and English)
@@ -84,7 +84,7 @@
 - Teamwork Skills
 - Problem-Solving Skills
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Education </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Education </strong> </div>
 
 **Asian University for Women** | **Chattogram, Bangladesh** | **2021-2025**
 - Bachelor of Science, Computer Science
@@ -92,7 +92,7 @@
 **College of Science, Business and Humanities** | **Chattogram, Bangladesh** | **2018-2020**
 - Bachelor of Science, Computer Science
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Experience </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Experience </strong> </div>
 
 **Graphics Designer and Editor** | **Asian University for Women (AUW), Chattogram** | **2022-2023**
 - Worked as the graphics designer and editor for the Culinary Chef Club
@@ -104,7 +104,7 @@
 - Worked as a data collector for a project regarding the decent working environment and workers' rights in the industrial establishment under Chittagong University (CU) <br>
 [Certificate](https://adrikachowdhury.github.io/assets/img/BILS.jpg)
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Extracurricular Activities </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Extracurricular Activities </strong> </div>
 
 **Organizing Committee Member** | **Asian University for Women (AUW), Chattogram** | **2023**
 - Worked as an organizing committee member for the Intervarsity Debate Championship <br>
@@ -119,7 +119,7 @@
 - Worked as a public relations managing volunteer for the 9<sup>th</sup> Photography Carnival <br>
 [Participation Certificate](https://adrikachowdhury.github.io/assets/img/AUWPC.jpg)
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Certifications </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Certifications </strong> </div>
 <div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Code In Place Certification (2023) </b> </div>
 
 Completed the online course<i> <b> “Introduction to Python (CS106A)” </b> </i> offered by Standford University <br>
@@ -131,7 +131,7 @@ Completed beginner-level<i> <b> “Introduction to Cybersecurity” </b> </i>cou
 [Completion Certificate 1](https://adrikachowdhury.github.io/assets/img/Introduction_to_Cybersecurity_Badge20231212-29-lvk384%20-%20Copy.pdf)<br>
 [Completion Certificate 2](https://adrikachowdhury.github.io/assets/img/AdrikaChowdhury-Introduction%20to%20-certificate%20-%20Copy.pdf)
 
-<div style= "font-family: Garamond; font-size: 170%; background-color: #f2ddd8; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Projects </strong> </div>
+<div style= "font-family: Garamond; font-size: 170%; background-color: #61b894; text-align: center; padding: 10px;"> <strong style="color: #a55858;"> Projects </strong> </div>
 <div style = "color:black; font-family: Copperplate; font-size: 130%;"> <b> Github Pages (2024) </b> </div>
 
 [Personal Portfolio Website](https://adrikachowdhury.github.io/) <br>
