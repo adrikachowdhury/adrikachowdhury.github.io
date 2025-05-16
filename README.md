@@ -17,7 +17,7 @@
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">Python</p>
   </div>
-  <!-- NumPy -->
+  <br>
   <div style="text-align: center;">
     <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">NumPy</p>
