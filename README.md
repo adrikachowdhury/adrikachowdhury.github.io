@@ -90,7 +90,7 @@
 - Bachelor of Science, Computer Science
 
 **College of Science, Business and Humanities** | **Chattogram, Bangladesh** | **2018-2020**
-- Bachelor of Science, Computer Science
+- Science Group
 
 <div style= "font-family: Garamond; font-size: 170%; background-color: #c1e7d6; text-align: center; padding: 10px;"> <strong style="color: ##c2f0dd;"> Experience </strong> </div>
 
