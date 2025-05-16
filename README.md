@@ -22,17 +22,17 @@
     <img src="https://numpy.org/images/logo.svg" alt="NumPy Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">NumPy</p>
   </div>
-
+<br>
   <div style="text-align: center;">
     <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" alt="Pandas Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">Pandas</p>
   </div>
-
+<br>
   <div style="text-align: center;">
     <img src="https://www.clipartmax.com/png/full/476-4769276_pytorch-logo-png.png" alt="PyTorch Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">PyTorch</p>
   </div>
-
+<br>
   <div style="text-align: center;">
     <img src="https://i0.wp.com/begincodingnow.com/wp-content/uploads/2023/08/colab_logo.png?ssl=1" alt="Google Colab Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">Google Colab</p>
@@ -46,22 +46,22 @@
     <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">NLTK</p>
   </div>
-
+<br>
   <div style="text-align: center;">
     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="HF Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">HuggingFace</p>
   </div>
-
+<br>
   <div style="text-align: center;">
     <img src="https://images.icon-icons.com/2429/PNG/512/figma_logo_icon_147289.png" alt="Figma Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">Figma</p>
   </div>
-  <!-- SPSS -->
+  <br>
   <div style="text-align: center;">
     <img src="https://www.pngfind.com/pngs/m/339-3393438_spss-spss-logo-hd-png-download.png" alt="SPSS Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">SPSS</p>
   </div>
-  <!-- Adobe Fresco -->
+  <br>
   <div style="text-align: center;">
     <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/fresco-40.svg" alt="Adobe Fresco Logo" style="width: 70px; height: 70px; transition: transform 0.3s;">
     <p style="font-family: Arial; font-size: 14px; margin: 5px 0 0 0;">Adobe Fresco</p>
