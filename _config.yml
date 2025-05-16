@@ -2,9 +2,3 @@
 title: Adrika Chowdhury
 description:  B. Sc. in Computer Science<br>  Asian University for Women<br>  NLP and UX/UI Enthusiast
 theme: jekyll-theme-cayman
-# Cayman theme-specific customizations
-cayman:
-  # These will display automatically in the Cayman theme footer
-  show_downloads: false
-  github_repo: "adrikachowdhury/adrikachowdhury.github.io" # Your repo name
-  github_user: "adrikachowdhury"
